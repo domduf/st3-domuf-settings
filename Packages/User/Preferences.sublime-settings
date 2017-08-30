@@ -1,6 +1,14 @@
-{
+{    
+
+
+	// The number of spaces a tab is considered equal to
+    "tab_size": 2,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
 	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
